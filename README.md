@@ -6,4 +6,4 @@ This site was built for job hunting purposes to showcase some concepts I have ma
 
 ### Technologies Used
 
-JavaScript, HTML, CSS, Atom, Chrome
+JavaScript, HTML, CSS, Bootstrap, Atom, Chrome
